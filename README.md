@@ -30,3 +30,37 @@ The loan default dataset contains detailed information about loans that have eit
 | LTV                          | Lifetime value of applicant       |
 | Region                       | Region of applicant        |
 | Status                       | Defaulter(1) or Compliant(0)        |
+
+## Data Cleaning
+
+- There are 148670 unique records in the dataset.
+- Few columns have missing values and outliers.
+- Missing values are treated by mode and mean of the columns.
+- Outliers are treated by Inter Quartile Range.
+
+## Tests and Concepts used
+
+- Chi-square Test for Independence
+- One Way ANOVA
+- QQ - plot to test normality of data
+- Shapiro Wilk test to test normality of data
+- Levene's Test to test the variance among the groups
+- Central Limit Theorem
+- Random Sampling
+- Correlation Matrix
+
+## Trends and Insights
+
+- Loan products under the Type 1 category are likely contributing disproportionately to the overall default rate.
+- Purpose-driven loans (P3, P4) might require more stringent risk assessments, especially in uncertain economic climates.
+- Geographic location has a significant impact on default risk, likely due to regional economic factors.
+- High Loan Amounts Are Correlated with Higher Default Rates.
+- Borrowers with personal and fixed-rate loans may face higher default risks.
+
+## Business Recommendations
+
+- Consider offering financial literacy programs or pre-loan counseling to help borrowers understand the loan terms and consequences of default.
+- Implement more thorough risk assessments for P3 and P4 loans.
+- Consider developing region-specific financial products that take into account local economic conditions.
+- Offer smaller loan products with more affordable repayment plans for high-risk borrowers.
+- Reassess the pricing model and risk criteria for personal loans, potentially increasing requirements for borrower eligibility.
