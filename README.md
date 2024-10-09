@@ -5,7 +5,7 @@ Develop a basic understanding of risk analytics in banking and financial service
 - [Dataset](https://drive.google.com/drive/folders/1cz3JUsfXDXPh2AM6FhEVQHvt5aZhveBU?usp=drive_link)
 - [Jupyter Notebooks](https://github.com/shyammanikandan/Loan_Default_Analysis/tree/main/Notebooks)
 - [Tableau Dashboard](https://public.tableau.com/app/profile/shyam8567/viz/LoanDefault_17283986543180/Dashboard1)
-- [Project Report](https://github.com/shyammanikandan/Loan_Default_Analysis/blob/main/Loan%20Default%20Presentation.key)
+- [Project Report](https://drive.google.com/file/d/1Avyv0IT8Zlg-ixfGMvTnQMdB6GDJTLvG/view?usp=drive_link)
 ## About Data
 The loan default dataset contains detailed information about loans that have either been repaid or defaulted. Each record represents an individual loan, with a variety of associated attributes, such as loan limit, loan purpose, loan amount, rate of interest, income, region of the borrower and more.
 
